@@ -1,0 +1,20 @@
+## NVM
+
+No Linux, instalar o NVM (Nome Version Manager) // ver a versão mais atual
+   wget -qO- <https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh>
+
+   nvm ls-remote (lista todas as versões do node)
+   nvm install --lts (instala a versão mais recente do node)
+   nvm install -versao- (instala uma versão)
+   nvm use -versao- (para user/trocar de versoes do node)
+
+
+## NODE/NPM
+   node -v (checar versão do node)
+   npm i npm -g (atualizar a versão do npm)
+
+
+## VSCODE
+    Alguns plugins que ajudam o desenvolvimento:
+        code runner
+        
